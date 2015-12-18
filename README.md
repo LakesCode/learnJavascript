@@ -32,9 +32,7 @@ Nodejs的 web开发框架<br>
        express <br>
        koa <br>
 ## 论坛及资源
-```javascript
-document.getelementById("demo");
-```
+
 github<br>
 http://ued.taobao.org/blog/category/bowen/frontend/<br>
 http://isux.tencent.com/<br>
