@@ -26,13 +26,14 @@ Stylus<br><br>
 
 https://nodejs.org/
 Node是一个Javascript运行环境(runtime)。实际上它是对GoogleV8引擎进行了封装。V8引擎执行Javascript的速度非常快，性能非常好。Node对一些特殊用例进行了优化，提供了替代的API，使得V8在非浏览器环境下运行得更好。<br>
-'npm'   nodejs的包管理工具<br>
+`npm`   nodejs的包管理工具<br>
 es6标准发布表示nodejs特征加入到标准了，js不在是一个纯前端的语言<br>
 Nodejs的 web开发框架<br>
        express <br>
        koa <br>
 ## 论坛及资源
-
+```javascript
+document.getelementById("demo");
 github<br>
 http://ued.taobao.org/blog/category/bowen/frontend/<br>
 http://isux.tencent.com/<br>
